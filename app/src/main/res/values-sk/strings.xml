@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Nastavenie</string>
+    <string name="settings_action_settings">Nastavenie</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">Režim lietadlo</string>
+    <string name="settings_traffic_data_text"> Dáta</string>
+    <string name="settings_wifi_text"> WIFI</string>
+    <string name="settings_ringtone_text">Scénický režim</string>
+    <string name="settings_power_saving_text">Šetriť energiu</string>
+    <string name="settings_auto_rotate_text">Autootáčení</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Umiestnenie</string>
+    <string name="settings_brightness_text">Svetlé</string>
+    <string name="settings_auto_brightness_text">Automatické nastavenie jasu</string>
+    <string name="settings_flash_light_text">Baterka</string>
+    <string name="settings_application_management_text">Správa aplikácií</string>
+    <string name="settings_settings_text">Nastavenie systému</string>
+    <string name="settings_traffic_monitoring_text">Sledovanie toku dát</string>
+    <string name="settings_desk">Nastavenie spúšťača</string>
+    <string name="settings_settings_hot_spot">Hotspot</string>
+    <string name="settings_error_text">Nedostupne z dôvodu systémových obmedzení!</string>
+    <string name="settings_light_error_text">Nedostupný pre nedostatok pamäte!</string>
+    <string name="settings_sim_error_text">SIM karta nenájdená!</string>
+    <string name="torch_widget_name">Baterka</string>
+</resources>

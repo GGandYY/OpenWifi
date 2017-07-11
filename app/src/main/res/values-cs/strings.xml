@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Nastavení</string>
+    <string name="settings_action_settings">Nastavení</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">Režim letadlo</string>
+    <string name="settings_traffic_data_text">Data</string>
+    <string name="settings_wifi_text">WIFI</string>
+    <string name="settings_ringtone_text">Režim scenérie</string>
+    <string name="settings_power_saving_text">Výkonová rezerva</string>
+    <string name="settings_auto_rotate_text">Automaticky otočit</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Umístění</string>
+    <string name="settings_brightness_text">Jasný</string>
+    <string name="settings_auto_brightness_text">Automatický jas</string>
+    <string name="settings_flash_light_text">Pochodeň</string>
+    <string name="settings_application_management_text">Správa aplikace</string>
+    <string name="settings_settings_text">Systémová nastavení</string>
+    <string name="settings_traffic_monitoring_text">Monitor datového toku</string>
+    <string name="settings_desk">Nastavení spouštěče</string>
+    <string name="settings_settings_hot_spot">Hotspot</string>
+    <string name="settings_error_text">Nedostupné z důvodu systémových omezení!</string>
+    <string name="settings_light_error_text">Nedostupné z důvodu absence blesku!</string>
+    <string name="settings_sim_error_text">SIM karta nebyla nalezena!</string>
+    <string name="torch_widget_name">Pochodeň</string>
+</resources>

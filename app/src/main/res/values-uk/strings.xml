@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Налаштування</string>
+    <string name="settings_action_settings">Налаштування</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">режим літака</string>
+    <string name="settings_traffic_data_text">Дата</string>
+    <string name="settings_wifi_text">WIFI</string>
+    <string name="settings_ringtone_text">режим сцени</string>
+    <string name="settings_power_saving_text">збереження енергії</string>
+    <string name="settings_auto_rotate_text">автоматичне обертання</string>
+    <string name="settings_blue_touch_text">Блютуз</string>
+    <string name="settings_location_mode_text">Місцезнаходження</string>
+    <string name="settings_brightness_text">яскравий</string>
+    <string name="settings_auto_brightness_text">автоматична яскравість</string>
+    <string name="settings_flash_light_text">доторкнутися</string>
+    <string name="settings_application_management_text">управління додатком</string>
+    <string name="settings_settings_text">Системні налаштування</string>
+    <string name="settings_traffic_monitoring_text">Моніторинг потоку даних</string>
+    <string name="settings_desk">налаштування лаунчер</string>
+    <string name="settings_settings_hot_spot">Гаряча точка</string>
+    <string name="settings_error_text">Неможливо через системні обмежень</string>
+    <string name="settings_light_error_text">Зайнято через відсутність спалаху!</string>
+    <string name="settings_sim_error_text">SIM  картка не виявлено</string>
+    <string name="torch_widget_name">доторкнутися</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Cài đặt</string>
+    <string name="settings_action_settings">Cài đặt</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">Chế độ trên máy bay</string>
+    <string name="settings_traffic_data_text">Dữ liệu</string>
+    <string name="settings_wifi_text"> WIFI</string>
+    <string name="settings_ringtone_text">Chế độ tùy chỉnh</string>
+    <string name="settings_power_saving_text">Chế độ tiết kiệm điện</string>
+    <string name="settings_auto_rotate_text">Xoay tự động</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Vị trí</string>
+    <string name="settings_brightness_text">Độ sáng màn hình</string>
+    <string name="settings_auto_brightness_text">Độ sáng tự động</string>
+    <string name="settings_flash_light_text">Đèn pin</string>
+    <string name="settings_application_management_text">Quản lý ứng dụng</string>
+    <string name="settings_settings_text">Cài đặt hệ thống</string>
+    <string name="settings_traffic_monitoring_text">Kiểm soát lưu lượng</string>
+    <string name="settings_desk">Cài đặt giao diện</string>
+    <string name="settings_settings_hot_spot">Điểm nổi bật</string>
+    <string name="settings_error_text">Do hệ thống giới hạn, không thể sử dụng!</string>
+    <string name="settings_light_error_text">Không có đèn flash, không thể sử dụng!</string>
+    <string name="settings_sim_error_text">Không có thẻ SIM!!</string>
+    <string name="torch_widget_name">Đèn pin</string>
+</resources>

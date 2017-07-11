@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Pengaturan</string>
+    <string name="settings_action_settings">Pengaturan</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">Mode Pesawat</string>
+    <string name="settings_traffic_data_text"> Data</string>
+    <string name="settings_wifi_text"> WIFI</string>
+    <string name="settings_ringtone_text">Mode Pemandangan</string>
+    <string name="settings_power_saving_text"> Mode Hemat daya</string>
+    <string name="settings_auto_rotate_text">Rotasi Auto</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Lokasi</string>
+    <string name="settings_brightness_text">Kecerahan Layar</string>
+    <string name="settings_auto_brightness_text">Kecerahan Auto</string>
+    <string name="settings_flash_light_text">Senter</string>
+    <string name="settings_application_management_text">Manajemen Aplikasi</string>
+    <string name="settings_settings_text">Pengaturan Sistem</string>
+    <string name="settings_traffic_monitoring_text">Pemantauan data</string>
+    <string name="settings_desk">Pengaturan Desktop</string>
+    <string name="settings_settings_hot_spot">Hotspot</string>
+    <string name="settings_error_text">Tidak bisa digunakan karena batasan sistem!</string>
+    <string name="settings_light_error_text">Tidak ada flash, tidak dapat digunakan!</string>
+    <string name="settings_sim_error_text">Tidak ada kartu SIM!!</string>
+    <string name="torch_widget_name">Senter</string>
+</resources>

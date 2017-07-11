@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">সেটিংস</string>
+    <string name="settings_action_settings">সেটিংস</string>
+    <string name="settings_setting_title">ফ্রি মি ওএস</string>
+    <string name="settings_airplane_mode_text">বিমানে থাকা অবস্থা</string>
+    <string name="settings_traffic_data_text">ডাটা</string>
+    <string name="settings_wifi_text">ওয়াইফাই</string>
+    <string name="settings_ringtone_text">সিন থাকা অবস্থা</string>
+    <string name="settings_power_saving_text">শক্তি সাশ্রয়কারী </string>
+    <string name="settings_auto_rotate_text">স্বয়ংক্রিয়ভাবে ঘুরবে</string>
+    <string name="settings_blue_touch_text">ব্লুটুথ</string>
+    <string name="settings_location_mode_text">অবস্থান</string>
+    <string name="settings_brightness_text">উজ্জ্বলতা</string>
+    <string name="settings_auto_brightness_text">স্বয়ংক্রিয় উজ্জ্বলতা</string>
+    <string name="settings_flash_light_text">টর্চ</string>
+    <string name="settings_application_management_text">অ্যাপের পরিচালনা</string>
+    <string name="settings_settings_text">সিস্টেমের সেটিংস</string>
+    <string name="settings_traffic_monitoring_text">ডাটা খরচের পর্যবেক্ষক</string>
+    <string name="settings_desk">লঞ্চারের সেটিংস</string>
+    <string name="settings_settings_hot_spot">হটস্পট</string>
+    <string name="settings_error_text">সিস্টেমের সীমাবদ্ধতার জন্য পাওয়া যাবে না!</string>
+    <string name="settings_light_error_text">ফ্ল্যাশের অভাবে পাওয়া যাবে না!</string>
+    <string name="settings_sim_error_text">সিম কার্ড পাওয়া যাচ্ছে না!</string>
+    <string name="torch_widget_name">টর্চ</string>
+</resources>

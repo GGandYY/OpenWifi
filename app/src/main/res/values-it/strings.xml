@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Impostazioni</string>
+    <string name="settings_action_settings">Impostazioni</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">Modalità Aereo</string>
+    <string name="settings_traffic_data_text">Dati</string>
+    <string name="settings_wifi_text">WIFI</string>
+    <string name="settings_ringtone_text">Modalità Scenica</string>
+    <string name="settings_power_saving_text">Riserva Energetica</string>
+    <string name="settings_auto_rotate_text">Rotazione Automatica</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Posizione</string>
+    <string name="settings_brightness_text">Luminosità</string>
+    <string name="settings_auto_brightness_text">Luminosità Automatica</string>
+    <string name="settings_flash_light_text">Torcia</string>
+    <string name="settings_application_management_text">Gestione App</string>
+    <string name="settings_settings_text">Impostazioni di Sistema</string>
+    <string name="settings_traffic_monitoring_text">Flusso Dati Monitor</string>
+    <string name="settings_desk">Impostazioni Launcher</string>
+    <string name="settings_settings_hot_spot">Hotspot</string>
+    <string name="settings_error_text">Non disponibile a causa di limitazioni di sistema!</string>
+    <string name="settings_light_error_text">Non disponibile causa mancanza Flash!</string>
+    <string name="settings_sim_error_text">Carta SIM non trovata!</string>
+    <string name="torch_widget_name">Torcia</string>
+</resources>

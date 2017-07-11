@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Configurações</string>
+    <string name="settings_action_settings">Configurações</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">Modo Avião</string>
+    <string name="settings_traffic_data_text"> Dados</string>
+    <string name="settings_wifi_text"> WI-FI</string>
+    <string name="settings_ringtone_text">Modo de Cena</string>
+    <string name="settings_power_saving_text">Reserva de energia</string>
+    <string name="settings_auto_rotate_text">Autorrotação</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Localização</string>
+    <string name="settings_brightness_text">Brilho</string>
+    <string name="settings_auto_brightness_text">Brilho automático</string>
+    <string name="settings_flash_light_text">Tocha</string>
+    <string name="settings_application_management_text">Gerenciamento de Aplicativos</string>
+    <string name="settings_settings_text">Configurações de Sistema</string>
+    <string name="settings_traffic_monitoring_text">Monitor de fluxo de dados</string>
+    <string name="settings_desk">Definições do Iniciador</string>
+    <string name="settings_settings_hot_spot">Ponto de acesso</string>
+    <string name="settings_error_text">Indisponível devido às limitações do sistema!</string>
+    <string name="settings_light_error_text">Indisponível por falta de flash!</string>
+    <string name="settings_sim_error_text">Cartão SIM não encontrado!</string>
+    <string name="torch_widget_name">Tocha</string>
+</resources>

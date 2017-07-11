@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Setări</string>
+    <string name="settings_action_settings">Setări</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">Mod avion</string>
+    <string name="settings_traffic_data_text">Date</string>
+    <string name="settings_wifi_text">WIFI</string>
+    <string name="settings_ringtone_text">Mod scenă</string>
+    <string name="settings_power_saving_text">Rezervă de energie</string>
+    <string name="settings_auto_rotate_text">Rotire automată</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Locație</string>
+    <string name="settings_brightness_text">Luminozitate   </string>
+    <string name="settings_auto_brightness_text">Luminozitate automată</string>
+    <string name="settings_flash_light_text">Lanternă</string>
+    <string name="settings_application_management_text">Gestionare aplicații</string>
+    <string name="settings_settings_text">Setări sistem</string>
+    <string name="settings_traffic_monitoring_text">Monitorizare trafic de date</string>
+    <string name="settings_desk">Setări lansator</string>
+    <string name="settings_settings_hot_spot">Hotspot</string>
+    <string name="settings_error_text">Indisponibil din cauza limitărilor sistemului!</string>
+    <string name="settings_light_error_text">Indisponibil din cauza lipsei blițului!</string>
+    <string name="settings_sim_error_text">Cartela SIM nu a fost găsită!</string>
+    <string name="torch_widget_name">Lanternă</string>
+</resources>

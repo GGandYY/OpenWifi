@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Параметры</string>
+    <string name="settings_action_settings">Параметры</string>
+    <string name="settings_setting_title">Freeme ОС</string>
+    <string name="settings_airplane_mode_text">Режим полета</string>
+    <string name="settings_traffic_data_text">Данные</string>
+    <string name="settings_wifi_text"> WIFI</string>
+    <string name="settings_ringtone_text">Режим показа сцены</string>
+    <string name="settings_power_saving_text">Экономный режим</string>
+    <string name="settings_auto_rotate_text">Авто поворот</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Местонахождение</string>
+    <string name="settings_brightness_text">Яркий</string>
+    <string name="settings_auto_brightness_text">Автоматическая яркость</string>
+    <string name="settings_flash_light_text">Фонарь</string>
+    <string name="settings_application_management_text">Управление приложением</string>
+    <string name="settings_settings_text">Настройки системы</string>
+    <string name="settings_traffic_monitoring_text">Монитор потока данных</string>
+    <string name="settings_desk">Настройки лаунчера</string>
+    <string name="settings_settings_hot_spot">Точка доступа</string>
+    <string name="settings_error_text">Недоступно из-за ограничений системы!</string>
+    <string name="settings_light_error_text">Недоступно из-за отсутствия вспышки!</string>
+    <string name="settings_sim_error_text">SIM-карта не найдена!</string>
+    <string name="torch_widget_name">Фонарь</string>
+</resources>

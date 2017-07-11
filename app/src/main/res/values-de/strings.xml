@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_app_name">Einstellungen</string>
+    <string name="settings_action_settings">Einstellungen</string>
+    <string name="settings_setting_title">Freeme OS</string>
+    <string name="settings_airplane_mode_text">Flugzeugmodus</string>
+    <string name="settings_traffic_data_text"> Daten</string>
+    <string name="settings_wifi_text"> WLAN</string>
+    <string name="settings_ringtone_text">Landschaftsmodus</string>
+    <string name="settings_power_saving_text">Stromreserve</string>
+    <string name="settings_auto_rotate_text">Auto-Rotieren</string>
+    <string name="settings_blue_touch_text">Bluetooth</string>
+    <string name="settings_location_mode_text">Position</string>
+    <string name="settings_brightness_text">Helligkeit</string>
+    <string name="settings_auto_brightness_text">Automatische Helligkeit</string>
+    <string name="settings_flash_light_text">Fackel</string>
+    <string name="settings_application_management_text">App-Verwaltung</string>
+    <string name="settings_settings_text">System-Einstellungen</string>
+    <string name="settings_traffic_monitoring_text">Datenmonitor</string>
+    <string name="settings_desk">Launcher-Einstellungen</string>
+    <string name="settings_settings_hot_spot">Hotspot</string>
+    <string name="settings_error_text">Nicht verfügbar aufgrund von Systemeinschränkungen!</string>
+    <string name="settings_light_error_text">Nicht verfügbar aufgrund von fehlender Blitzlichtfunktion!</string>
+    <string name="settings_sim_error_text">SIM-Karte nicht gefunden!</string>
+    <string name="torch_widget_name">Fackel</string>
+</resources>
